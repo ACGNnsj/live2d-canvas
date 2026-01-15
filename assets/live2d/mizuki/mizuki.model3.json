@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "mizuki.moc3",
+		"Textures": [
+			"mizuki.1024/texture_00.png"
+		],
+		"DisplayInfo": "mizuki.cdi3.json"
+	}
+}
